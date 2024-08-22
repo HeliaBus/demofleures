@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/demofleures/static/css/main.24386ad6.css",
+    "main.js": "/demofleures/static/js/main.52c1d664.js",
+    "static/js/453.664fea49.chunk.js": "/demofleures/static/js/453.664fea49.chunk.js",
+    "static/media/sun.png": "/demofleures/static/media/sun.6f69987493c8ad31c5a8.png",
+    "static/media/pres.jpeg": "/demofleures/static/media/pres.66da37c2791257521774.jpeg",
+    "index.html": "/demofleures/index.html",
+    "main.24386ad6.css.map": "/demofleures/static/css/main.24386ad6.css.map",
+    "main.52c1d664.js.map": "/demofleures/static/js/main.52c1d664.js.map",
+    "453.664fea49.chunk.js.map": "/demofleures/static/js/453.664fea49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24386ad6.css",
+    "static/js/main.52c1d664.js"
+  ]
+}
